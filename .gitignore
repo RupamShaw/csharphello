@@ -1,0 +1,45 @@
+# Build files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vscode/
+.vs/
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Temporary files
+TestResults/
+node_modules/
+wwwroot/node_modules/
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# .NET Core files
+.DS_Store
+.env
+.env.*
+.idea/
+
+# Publish files
+publish/
+out/
